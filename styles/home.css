@@ -7,9 +7,19 @@
 body {
   box-sizing: border-box;
   border: 1px solid black;
-  background-color: grey;
+  background-color: rgb(14, 64, 111);
 }
 body header nav {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+}
+body header nav .logo-div .p-logo {
+  color: white;
+}
+body header nav .link-div .link-div-ul ul li {
+  list-style: none;
+}
+body header nav .link-div .link-div-ul ul li .a-links {
+  text-decoration: none;
+  color: white;
 }/*# sourceMappingURL=home.css.map */

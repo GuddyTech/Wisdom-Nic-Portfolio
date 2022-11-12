@@ -9,18 +9,19 @@
 body {
     box-sizing: border-box;
     border: 1px solid black;
-    background-color: grey;
+    background-color: rgb(14, 64, 111);
     
 
     header {
 
         nav {
             display: flex;
-            justify-content: space-around;
+            justify-content: space-between;
 
             .logo-div {
 
-                .p-div {
+                .p-logo {
+                    color: white;
 
                 }
 
@@ -33,9 +34,12 @@ body {
                     ul {
 
                         li {
+                            list-style: none;
 
                             .a-links {
-
+                                text-decoration: none;
+                                color: white;
+                                
                             }
 
                         }
