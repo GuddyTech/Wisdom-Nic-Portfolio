@@ -17,6 +17,9 @@ body header nav {
 body header nav .logo-div .p-logo {
   color: white;
 }
+body header nav .link-div {
+  display: flex;
+}
 body header nav .link-div .link-div-ul ul {
   display: flex;
 }
