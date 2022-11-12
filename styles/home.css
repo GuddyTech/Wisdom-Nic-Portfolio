@@ -8,7 +8,7 @@ body {
   box-sizing: border-box;
   border: 1px solid black;
   background-color: rgb(14, 64, 111);
-  margin: 0 5%;
+  margin: 2% 5%;
 }
 body header nav {
   display: flex;
@@ -19,9 +19,11 @@ body header nav .logo-div .p-logo {
 }
 body header nav .link-div {
   display: flex;
+  justify-content: space-around;
 }
 body header nav .link-div .link-div-ul ul {
   display: flex;
+  justify-content: space-around;
 }
 body header nav .link-div .link-div-ul ul li {
   list-style: none;

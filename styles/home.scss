@@ -10,7 +10,7 @@ body {
     box-sizing: border-box;
     border: 1px solid black;
     background-color: rgb(14, 64, 111);
-    margin: 0 5%;
+    margin: 2% 5%;
     
 
     header {
@@ -30,11 +30,13 @@ body {
 
             .link-div {
                 display: flex;
+                justify-content: space-around;
 
                 .link-div-ul {
 
                     ul {
                         display: flex;
+                        justify-content: space-around;
 
                         li {
                             list-style: none;
