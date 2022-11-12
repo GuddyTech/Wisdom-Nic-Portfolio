@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body header nav {
+  display: flex;
+  justify-content: space-around;
+}/*# sourceMappingURL=home.css.map */

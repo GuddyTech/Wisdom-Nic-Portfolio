@@ -7,10 +7,13 @@
 }
 
 body {
+    
 
     header {
 
         nav {
+            display: flex;
+            justify-content: space-around;
 
             .logo-div {
 
@@ -41,7 +44,7 @@ body {
                 .contact-btn-div {
 
                     .contact-btn {
-                        
+
                     }
 
                 }
