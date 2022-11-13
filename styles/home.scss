@@ -90,6 +90,7 @@ body {
     main {
 
         .sect-1 {
+            display: flex;
 
             .section-1-flex-1 {
 
@@ -146,6 +147,7 @@ body {
                     height: 646px;
                     width: 505px;
                     color: white;
+                    border-radius: 30px;
                     background: radial-gradient(50% 50% at 50% 50%, #342B2B 0%, #000000 100%);
 
 
