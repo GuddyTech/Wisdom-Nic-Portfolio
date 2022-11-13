@@ -16,6 +16,7 @@ body header nav {
 }
 body header nav .logo-div .p-logo {
   color: white;
+  font-family: "Nunito", sans-serif;
 }
 body header nav .link-div {
   display: flex;
