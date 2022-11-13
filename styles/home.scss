@@ -34,6 +34,7 @@ body {
                 align-items: center;
                 gap: 40px;
                 border: 1px solid black;
+                
 
                 .link-div-ul {
                     
@@ -63,6 +64,12 @@ body {
                 .contact-btn-div {
 
                     .contact-btn {
+                        color: white;
+                        background-color: transparent;
+                        height: 40px;
+                        width: 100px;
+                        
+                        background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
 
                     }
 

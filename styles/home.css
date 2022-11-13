@@ -36,4 +36,11 @@ body header nav .link-div .link-div-ul ul li {
 body header nav .link-div .link-div-ul ul li .a-links {
   text-decoration: none;
   color: white;
+}
+body header nav .link-div .contact-btn-div .contact-btn {
+  color: white;
+  background-color: transparent;
+  height: 40px;
+  width: 100px;
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
 }/*# sourceMappingURL=home.css.map */
