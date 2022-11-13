@@ -23,16 +23,13 @@ body header nav .link-div {
   justify-content: space-around;
   align-items: center;
   gap: 40px;
-  border: 1px solid black;
 }
 body header nav .link-div .link-div-ul ul {
   display: flex;
   gap: 40px;
-  border: 1px solid black;
 }
 body header nav .link-div .link-div-ul ul li {
   list-style: none;
-  border: 1px solid black;
 }
 body header nav .link-div .link-div-ul ul li .a-links {
   text-decoration: none;
