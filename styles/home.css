@@ -47,8 +47,12 @@ body header nav .link-div .contact-btn-div .contact-btn {
   font-size: 16px;
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
 }
+body main {
+  margin-top: 10%;
+}
 body main .sect-1 {
   display: flex;
+  justify-content: space-between;
 }
 body main .sect-1 .section-2-flex-2 .shadow-div {
   height: 646px;

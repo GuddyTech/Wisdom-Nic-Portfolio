@@ -88,9 +88,12 @@ body {
     }
 
     main {
+        margin-top: 10%;
+
 
         .sect-1 {
             display: flex;
+            justify-content: space-between;
 
             .section-1-flex-1 {
 
