@@ -46,4 +46,10 @@ body header nav .link-div .contact-btn-div .contact-btn {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+}
+body main .sect-1 .section-2-flex-2 .shadow-div {
+  height: 646px;
+  width: 505px;
+  color: white;
+  background: radial-gradient(50% 50% at 50% 50%, #342B2B 0%, #000000 100%);
 }/*# sourceMappingURL=home.css.map */
