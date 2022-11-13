@@ -36,6 +36,8 @@ body header nav .link-div .link-div-ul ul li {
 body header nav .link-div .link-div-ul ul li .a-links {
   text-decoration: none;
   color: white;
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
 }
 body header nav .link-div .contact-btn-div .contact-btn {
   color: white;
