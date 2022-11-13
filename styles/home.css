@@ -20,13 +20,18 @@ body header nav .logo-div .p-logo {
 body header nav .link-div {
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+  border: 1px solid black;
 }
 body header nav .link-div .link-div-ul ul {
   display: flex;
-  justify-content: space-around;
+  gap: 40px;
+  border: 1px solid black;
 }
 body header nav .link-div .link-div-ul ul li {
   list-style: none;
+  border: 1px solid black;
 }
 body header nav .link-div .link-div-ul ul li .a-links {
   text-decoration: none;

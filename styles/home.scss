@@ -31,15 +31,22 @@ body {
             .link-div {
                 display: flex;
                 justify-content: space-around;
+                align-items: center;
+                gap: 40px;
+                border: 1px solid black;
 
                 .link-div-ul {
+                    
 
                     ul {
                         display: flex;
-                        justify-content: space-around;
+                        gap: 40px;
+                        border: 1px solid black;
+                        // justify-content: space-around;
 
                         li {
                             list-style: none;
+                            border: 1px solid black;
 
                             .a-links {
                                 text-decoration: none;
