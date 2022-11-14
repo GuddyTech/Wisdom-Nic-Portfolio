@@ -119,8 +119,9 @@ body {
                         -webkit-text-fill-color: transparent;
 
                         .main-h1-span {
-                            background-color: white;
-                            
+                            background: white;
+                            -webkit-background-clip: text;
+                            -webkit-text-fill-color: transparent;  
                         }
                     }
     
@@ -129,7 +130,13 @@ body {
                 .main-p-div {
 
                     .main-p {
-                        color: white;
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 20px;
+                        line-height: 35px;
+                        color: #FFFFFF;
+
                     }
     
                 }
