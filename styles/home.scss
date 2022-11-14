@@ -1,3 +1,5 @@
+$borderGradientColor: linear-gradient(to right, red, purple);
+
 
 
 * {
@@ -152,9 +154,17 @@ body {
                         height: 54px;
                         border-radius: 8px;
                         background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
-                        border: 1px solid red;
+                        // border: 10px solid $borderGradientColor;
                         color: white;
                         cursor: pointer;
+                        transition: all 1s ease-in-out;
+
+                        &:hover {
+                            background: blue;
+                            border: 1px solid white;
+                            color: white;
+                            // transition: all 1s ease-in-out;
+                        }
 
 
     

@@ -91,9 +91,14 @@ body main .sect-1 .section-1-flex-1 .about-download-div .about-btn {
   height: 54px;
   border-radius: 8px;
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
-  border: 1px solid red;
   color: white;
   cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+body main .sect-1 .section-1-flex-1 .about-download-div .about-btn:hover {
+  background: blue;
+  border: 1px solid white;
+  color: white;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .download-btn {
   width: 185px;
