@@ -100,13 +100,37 @@ body {
 
                 .main-h2-div {
 
+                    .main-h2 {
+                        color: white;
+                    }
+
                 }
     
                 .main-h1-div {
+
+                    .main-h1 {
+                        font-family: 'Nunito San';
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 68px;
+                        line-height: 93px;
+                        background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+                        -webkit-background-clip: text;
+                        -webkit-text-fill-color: transparent;
+
+                        .main-h1-span {
+                            background-color: white;
+                            
+                        }
+                    }
     
                 }
     
                 .main-p-div {
+
+                    .main-p {
+                        color: white;
+                    }
     
                 }
     
