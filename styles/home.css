@@ -93,6 +93,7 @@ body main .sect-1 .section-1-flex-1 .about-download-div .about-btn {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border: 1px solid red;
   color: white;
+  cursor: pointer;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .download-btn {
   width: 185px;
@@ -101,9 +102,40 @@ body main .sect-1 .section-1-flex-1 .about-download-div .download-btn {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border: 1px solid red;
   color: white;
+  margin-left: 60px;
+  cursor: pointer;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .download-btn .cloud {
   margin: -2% 2%;
+}
+body main .sect-1 .section-1-flex-1 .social-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 70px;
+  width: 402px;
+  height: 48px;
+  border: 1px solid black;
+}
+body main .sect-1 .section-1-flex-1 .social-icons .twitter .twitter-svg {
+  height: 48px;
+  width: 48px;
+  cursor: pointer;
+}
+body main .sect-1 .section-1-flex-1 .social-icons .behance .behance-svg {
+  height: 48px;
+  width: 48px;
+  cursor: pointer;
+}
+body main .sect-1 .section-1-flex-1 .social-icons .linkedin .linkedin-svg {
+  height: 48px;
+  width: 48px;
+  cursor: pointer;
+}
+body main .sect-1 .section-1-flex-1 .social-icons .dribble .dribble-svg {
+  height: 48px;
+  width: 48px;
+  cursor: pointer;
 }
 body main .sect-1 .section-2-flex-2 .shadow-div {
   height: 646px;

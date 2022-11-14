@@ -145,6 +145,7 @@ body {
                 .about-download-div {
                     margin-bottom:  157px;
                     
+                    
     
                     .about-btn {
                         width: 185px;
@@ -153,6 +154,7 @@ body {
                         background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
                         border: 1px solid red;
                         color: white;
+                        cursor: pointer;
 
 
     
@@ -165,6 +167,8 @@ body {
                         background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
                         border: 1px solid red;
                         color: white;
+                        margin-left: 60px;
+                        cursor: pointer;
 
                         .cloud { 
                             margin: -2% 2%;
@@ -175,9 +179,19 @@ body {
                 }
     
                 .social-icons {
+                    display: flex;
+                    flex-direction: row;
+                    align-items: flex-start;
+                    gap: 70px;
+                    width: 402px;
+                    height: 48px;
+                    border: 1px solid black;
     
                     .twitter {
                         .twitter-svg {
+                            height: 48px;
+                            width: 48px;
+                            cursor: pointer;
 
                         }
     
@@ -185,6 +199,9 @@ body {
     
                     .behance {
                         .behance-svg {
+                            height: 48px;
+                            width: 48px;
+                            cursor: pointer;
 
                         }
     
@@ -192,6 +209,9 @@ body {
     
                     .linkedin {
                         .linkedin-svg {
+                            height: 48px;
+                            width: 48px;
+                            cursor: pointer;
 
                         }
     
@@ -199,7 +219,10 @@ body {
     
                     .dribble {
                         .dribble-svg {
-                            
+                            height: 48px;
+                            width: 48px;
+                            cursor: pointer;
+
                         }
     
                     }
