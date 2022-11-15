@@ -49,6 +49,7 @@ body header nav .link-div .contact-btn-div .contact-btn {
 }
 body main {
   box-sizing: border-box;
+  border: 1px solid yellow;
   margin-top: 10%;
 }
 body main .sect-1 {
