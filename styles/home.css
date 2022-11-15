@@ -48,6 +48,7 @@ body header nav .link-div .contact-btn-div .contact-btn {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
 }
 body main {
+  box-sizing: border-box;
   margin-top: 10%;
 }
 body main .sect-1 {
