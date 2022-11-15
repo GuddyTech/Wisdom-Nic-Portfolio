@@ -152,4 +152,10 @@ body main .sect-1 .section-2-flex-2 .shadow-div {
   border-radius: 30px;
   border: 1px solid green;
   background: radial-gradient(50% 50% at 50% 50%, #342B2B 0%, #000000 100%);
+}
+body main .sect-1 .section-2-flex-2 .img-shadow-div {
+  border: 1px solid green;
+}
+body main .sect-1 .section-2-flex-2 .img-shadow-div .img-shadow {
+  border: 1px solid;
 }/*# sourceMappingURL=home.css.map */
