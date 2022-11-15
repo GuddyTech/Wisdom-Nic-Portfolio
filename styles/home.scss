@@ -150,6 +150,7 @@ body {
     
                 .about-download-div {
                     margin-bottom:  157px;
+                    border: 1px solid yellow;
                     
                     
     
@@ -160,6 +161,7 @@ body {
                         background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
                         // border: 10px solid $borderGradientColor;
                         color: white;
+                        font-size: 16px;
                         cursor: pointer;
                         transition: all 1s ease-in-out;
 
@@ -181,11 +183,14 @@ body {
                         background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
                         border: 1px solid red;
                         color: white;
+                        font-size: 16px;
                         margin-left: 60px;
                         cursor: pointer;
 
                         .cloud { 
-                            margin: -2% 2%;
+                            margin: -3.5% 2%;
+                            height: 24px;
+                            width: 24px;
                         }
     
                     }
@@ -265,7 +270,7 @@ body {
 
                 .img-shadow-div {
                     position: absolute;
-                    left: 653px;
+                    left: 700px;
                     top: 218px;
                     border: 1px solid green;
                     

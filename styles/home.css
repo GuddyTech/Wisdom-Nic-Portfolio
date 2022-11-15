@@ -87,6 +87,7 @@ body main .sect-1 .section-1-flex-1 .main-p-div .main-p {
 }
 body main .sect-1 .section-1-flex-1 .about-download-div {
   margin-bottom: 157px;
+  border: 1px solid yellow;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .about-btn {
   width: 185px;
@@ -94,6 +95,7 @@ body main .sect-1 .section-1-flex-1 .about-download-div .about-btn {
   border-radius: 8px;
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   color: white;
+  font-size: 16px;
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
@@ -109,11 +111,14 @@ body main .sect-1 .section-1-flex-1 .about-download-div .download-btn {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border: 1px solid red;
   color: white;
+  font-size: 16px;
   margin-left: 60px;
   cursor: pointer;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .download-btn .cloud {
-  margin: -2% 2%;
+  margin: -3.5% 2%;
+  height: 24px;
+  width: 24px;
 }
 body main .sect-1 .section-1-flex-1 .social-icons {
   display: flex;
@@ -158,7 +163,7 @@ body main .sect-1 .section-2-flex-2 .shadow-div {
 }
 body main .sect-1 .section-2-flex-2 .img-shadow-div {
   position: absolute;
-  left: 653px;
+  left: 700px;
   top: 218px;
   border: 1px solid green;
 }
