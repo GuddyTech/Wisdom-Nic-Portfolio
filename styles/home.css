@@ -148,7 +148,7 @@ body main .sect-1 .section-2-flex-2 {
 }
 body main .sect-1 .section-2-flex-2 .shadow-div {
   position: absolute;
-  left: 863px;
+  left: 773px;
   height: 646px;
   width: 505px;
   border-radius: 30px;
@@ -157,6 +157,7 @@ body main .sect-1 .section-2-flex-2 .shadow-div {
 }
 body main .sect-1 .section-2-flex-2 .img-shadow-div {
   position: absolute;
+  left: 130px;
   border: 1px solid green;
 }
 body main .sect-1 .section-2-flex-2 .img-shadow-div .img-shadow {
