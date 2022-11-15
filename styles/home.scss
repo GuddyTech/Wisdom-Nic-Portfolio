@@ -263,12 +263,19 @@ body {
 
                 .img-shadow-div {
                     position: absolute;
-                    left: 130px;
+                    left: 653px;
                     border: 1px solid green;
                     
 
                     .img-shadow {
                         border: 1px solid skyblue;
+                        transition: all 1s ease-in-out;
+                        height: 851px;
+                        width: 623px;
+                        
+                        &:hover {
+                            transform: matrix(-1, 0, 0, 1, 0, 0);
+                        }
 
 
                     }

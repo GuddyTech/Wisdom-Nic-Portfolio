@@ -157,9 +157,15 @@ body main .sect-1 .section-2-flex-2 .shadow-div {
 }
 body main .sect-1 .section-2-flex-2 .img-shadow-div {
   position: absolute;
-  left: 130px;
+  left: 653px;
   border: 1px solid green;
 }
 body main .sect-1 .section-2-flex-2 .img-shadow-div .img-shadow {
   border: 1px solid skyblue;
+  transition: all 1s ease-in-out;
+  height: 851px;
+  width: 623px;
+}
+body main .sect-1 .section-2-flex-2 .img-shadow-div .img-shadow:hover {
+  transform: matrix(-1, 0, 0, 1, 0, 0);
 }/*# sourceMappingURL=home.css.map */
