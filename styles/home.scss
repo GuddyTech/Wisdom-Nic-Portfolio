@@ -210,11 +210,14 @@ body {
                         .twitter-svg {
                             height: 48px;
                             width: 48px;
+                            border-radius: 50px;
+                            box-shadow: 1px 1px 4px 4px grey;
                             cursor: pointer;
                             transition: all 1s ease-in-out;
 
                             &:hover {
                                 transform: rotate(360deg);
+                                box-shadow: 1px 1px 4px 4px grey;
                             }
 
                         }
@@ -225,11 +228,13 @@ body {
                         .behance-svg {
                             height: 48px;
                             width: 48px;
+                            border-radius: 50px;
                             cursor: pointer;
                             transition: all 1s ease-in-out;
 
                             &:hover {
                                 transform: rotate(360deg);
+                                box-shadow: 1px 1px 4px 4px grey;
                             }
 
                         }
@@ -240,11 +245,13 @@ body {
                         .linkedin-svg {
                             height: 48px;
                             width: 48px;
+                            border-radius: 50px;
                             cursor: pointer;
                             transition: all 1s ease-in-out;
 
                             &:hover {
                                 transform: rotate(360deg);
+                                box-shadow: 1px 1px 4px 4px grey;
                             }
 
                         }
@@ -256,7 +263,6 @@ body {
                             height: 48px;
                             width: 48px;
                             border-radius: 50px;
-                            
                             cursor: pointer;
                             transition: all 1s ease-in-out;
 
