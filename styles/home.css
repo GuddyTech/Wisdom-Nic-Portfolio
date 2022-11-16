@@ -87,6 +87,7 @@ body main .sect-1 .section-1-flex-1 .main-p-div .main-p {
   font-weight: 400;
   font-size: 26px;
   line-height: 35px;
+  color: white;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div {
   margin-bottom: 157px;
@@ -95,15 +96,17 @@ body main .sect-1 .section-1-flex-1 .about-download-div .about-btn {
   width: 185px;
   height: 54px;
   border-radius: 8px;
-  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  background: transparent;
+  border: 1px solid white;
   color: white;
   font-size: 16px;
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .about-btn:hover {
-  background: blue;
-  color: white;
+  -o-border-image: 8px solid yellow;
+     border-image: 8px solid yellow;
+  background: linear-gradient(rgb(255, 0, 118), rgb(89, 15, 183)) padding-box, linear-gradient(to right, darkblue, darkorchid);
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .download-btn {
   width: 185px;
