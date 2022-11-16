@@ -132,11 +132,19 @@ body main .sect-1 .section-1-flex-1 .social-icons .twitter .twitter-svg {
   height: 48px;
   width: 48px;
   cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+body main .sect-1 .section-1-flex-1 .social-icons .twitter .twitter-svg:hover {
+  transform: rotate(360deg);
 }
 body main .sect-1 .section-1-flex-1 .social-icons .behance .behance-svg {
   height: 48px;
   width: 48px;
   cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+body main .sect-1 .section-1-flex-1 .social-icons .behance .behance-svg:hover {
+  transform: rotate(360deg);
 }
 body main .sect-1 .section-1-flex-1 .social-icons .linkedin .linkedin-svg {
   height: 48px;

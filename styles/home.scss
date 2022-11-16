@@ -211,6 +211,11 @@ body {
                             height: 48px;
                             width: 48px;
                             cursor: pointer;
+                            transition: all 1s ease-in-out;
+
+                            &:hover {
+                                transform: rotate(360deg);
+                            }
 
                         }
     
@@ -221,6 +226,11 @@ body {
                             height: 48px;
                             width: 48px;
                             cursor: pointer;
+                            transition: all 1s ease-in-out;
+
+                            &:hover {
+                                transform: rotate(360deg);
+                            }
 
                         }
     
