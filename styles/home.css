@@ -49,7 +49,6 @@ body header nav .link-div .contact-btn-div .contact-btn {
 }
 body main {
   box-sizing: border-box;
-  border: 1px solid yellow;
   margin-top: 10%;
 }
 body main .sect-1 {
@@ -87,7 +86,6 @@ body main .sect-1 .section-1-flex-1 .main-p-div .main-p {
 }
 body main .sect-1 .section-1-flex-1 .about-download-div {
   margin-bottom: 157px;
-  border: 1px solid yellow;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .about-btn {
   width: 185px;
@@ -101,7 +99,6 @@ body main .sect-1 .section-1-flex-1 .about-download-div .about-btn {
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .about-btn:hover {
   background: blue;
-  border: 1px solid white;
   color: white;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div .download-btn {
@@ -109,7 +106,6 @@ body main .sect-1 .section-1-flex-1 .about-download-div .download-btn {
   height: 54px;
   border-radius: 8px;
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
-  border: 1px solid red;
   color: white;
   font-size: 16px;
   margin-left: 60px;
@@ -158,14 +154,13 @@ body main .sect-1 .section-1-flex-1 .social-icons .linkedin .linkedin-svg:hover 
 body main .sect-1 .section-1-flex-1 .social-icons .dribble .dribble-svg {
   height: 48px;
   width: 48px;
+  border-radius: 50px;
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
 body main .sect-1 .section-1-flex-1 .social-icons .dribble .dribble-svg:hover {
   transform: rotate(360deg);
-}
-body main .sect-1 .section-2-flex-2 {
-  border: 1px solid red;
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .sect-1 .section-2-flex-2 .shadow-div {
   position: absolute;
@@ -174,17 +169,14 @@ body main .sect-1 .section-2-flex-2 .shadow-div {
   height: 646px;
   width: 505px;
   border-radius: 30px;
-  border: 1px solid green;
   background: radial-gradient(50% 50% at 50% 50%, #342B2B 0%, #000000 100%);
 }
 body main .sect-1 .section-2-flex-2 .img-shadow-div {
   position: absolute;
   left: 700px;
   top: 218px;
-  border: 1px solid green;
 }
 body main .sect-1 .section-2-flex-2 .img-shadow-div .img-shadow {
-  border: 1px solid skyblue;
   transition: all 1s ease-in-out;
   height: 851px;
   width: 623px;

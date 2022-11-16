@@ -94,7 +94,7 @@ body {
     main {
         // position: relative;
         box-sizing: border-box;
-        border: 1px solid yellow;
+        // border: 1px solid yellow;
         margin-top: 10%;
 
 
@@ -150,7 +150,7 @@ body {
     
                 .about-download-div {
                     margin-bottom:  157px;
-                    border: 1px solid yellow;
+                    // border: 1px solid yellow;
                     
                     
     
@@ -167,7 +167,7 @@ body {
 
                         &:hover {
                             background: blue;
-                            border: 1px solid white;
+                            // border: 1px solid white;
                             color: white;
                             // transition: all 1s ease-in-out;
                         }
@@ -181,7 +181,7 @@ body {
                         height: 54px;
                         border-radius: 8px;
                         background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
-                        border: 1px solid red;
+                        // border: 1px solid red;
                         color: white;
                         font-size: 16px;
                         margin-left: 60px;
@@ -255,11 +255,14 @@ body {
                         .dribble-svg {
                             height: 48px;
                             width: 48px;
+                            border-radius: 50px;
+                            
                             cursor: pointer;
                             transition: all 1s ease-in-out;
 
                             &:hover {
                                 transform: rotate(360deg);
+                                box-shadow: 1px 1px 4px 4px grey;
                             }
 
                         }
@@ -272,7 +275,7 @@ body {
             }
 
             .section-2-flex-2 {
-                border: 1px solid red;
+                // border: 1px solid red;
 
                 .shadow-div {
                     position: absolute;
@@ -282,7 +285,7 @@ body {
                     width: 505px;
                     // color: white;
                     border-radius: 30px;
-                    border: 1px solid green;
+                    // border: 1px solid green;
                     background: radial-gradient(50% 50% at 50% 50%, #342B2B 0%, #000000 100%);
 
 
@@ -292,11 +295,11 @@ body {
                     position: absolute;
                     left: 700px;
                     top: 218px;
-                    border: 1px solid green;
+                    // border: 1px solid green;
                     
 
                     .img-shadow {
-                        border: 1px solid skyblue;
+                        // border: 1px solid skyblue;
                         transition: all 1s ease-in-out;
                         height: 851px;
                         width: 623px;
