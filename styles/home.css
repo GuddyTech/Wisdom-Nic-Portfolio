@@ -57,6 +57,11 @@ body main .sect-1 {
 }
 body main .sect-1 .section-1-flex-1 .main-h2-div .main-h2 {
   color: white;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 35px;
 }
 body main .sect-1 .section-1-flex-1 .main-h1-div .main-h1 {
   font-family: "Nunito San";
@@ -80,9 +85,8 @@ body main .sect-1 .section-1-flex-1 .main-p-div .main-p {
   font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 26px;
   line-height: 35px;
-  color: #FFFFFF;
 }
 body main .sect-1 .section-1-flex-1 .about-download-div {
   margin-bottom: 157px;

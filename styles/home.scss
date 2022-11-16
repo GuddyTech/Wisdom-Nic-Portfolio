@@ -104,10 +104,16 @@ body {
 
             .section-1-flex-1 {
 
-                .main-h2-div {
+                .main-h2-div { 
 
                     .main-h2 {
                         color: white;
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 26px;
+                        line-height: 35px;
+                        // top: 215px;
                     }
 
                 }
@@ -137,12 +143,17 @@ body {
                     margin-bottom: 66px;
 
                     .main-p {
+                        // font-family: 'Nunito Sans';
+                        // font-style: normal;
+                        // font-weight: 400;
+                        // font-size: 20px;
+                        // line-height: 35px;
+                        // color: #FFFFFF;
                         font-family: 'Nunito Sans';
                         font-style: normal;
                         font-weight: 400;
-                        font-size: 20px;
+                        font-size: 26px;
                         line-height: 35px;
-                        color: #FFFFFF;
 
                     }
     
