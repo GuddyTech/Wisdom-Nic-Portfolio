@@ -40,6 +40,7 @@ body header nav .link-div .link-div-ul ul li .a-links:hover {
   background: linear-gradient(131.96deg, #f670af -0.3%, #8e3ff4 79.51%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  transition: all 2s ease-in-out;
 }
 body header nav .link-div .contact-btn-div .contact-btn {
   color: white;
@@ -51,6 +52,9 @@ body header nav .link-div .contact-btn-div .contact-btn {
   font-size: 16px;
   cursor: pointer;
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+}
+body header nav .link-div .contact-btn-div .contact-btn:hover {
+  box-shadow: 1px 3px 5px 1px rgb(59, 57, 57);
 }
 body main {
   box-sizing: border-box;
