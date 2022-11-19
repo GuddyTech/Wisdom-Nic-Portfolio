@@ -83,21 +83,4 @@ body main .main-div .sect-1 .line {
   /* Design Color */
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border-radius: 2px;
-}
-body main .main-div .sect-1 .p-help {
-  width: 1121px;
-  height: 210px;
-  margin-top: 35px;
-  /* Heading 1 */
-  font-family: "Nunito Sans";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 26px;
-  line-height: 35px;
-  text-align: center;
-  color: #FFFFFF;
-  margin: 35px auto 166px auto;
-}
-body main .sect-2 {
-  margin-top: 722px;
-}/*# sourceMappingURL=about.css.map */
+}/*# sourceMappingURL=contact.css.map */
