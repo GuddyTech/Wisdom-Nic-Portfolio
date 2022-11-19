@@ -59,6 +59,13 @@ body {
                                 color: white;
                                 font-family: 'Nunito', sans-serif;
                                 font-size: 16px;
+
+                                &:hover {
+                                    background: linear-gradient(131.96deg, #f670af -0.3%, #8e3ff4 79.51%);
+                                    // background: -webkit-linear-gradient(#eee, #333);
+                                    -webkit-background-clip: text;
+                                    -webkit-text-fill-color: transparent;
+                                }
                                 
                             }
 

@@ -36,6 +36,11 @@ body header nav .link-div .link-div-ul ul li .a-links {
   font-family: "Nunito", sans-serif;
   font-size: 16px;
 }
+body header nav .link-div .link-div-ul ul li .a-links:hover {
+  background: linear-gradient(131.96deg, #f670af -0.3%, #8e3ff4 79.51%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 body header nav .link-div .contact-btn-div .contact-btn {
   color: white;
   background-color: transparent;
