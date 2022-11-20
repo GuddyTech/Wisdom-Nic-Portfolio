@@ -124,6 +124,16 @@ body main .sect-2 form .for-text {
 body main .footer {
   color: white;
 }
+body main .footer .send-btn {
+  width: 131px;
+  height: 54px;
+  left: 258px;
+  top: 1094px;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 8px;
+  color: white;
+}
 body main .footer .social-icons {
   display: flex;
   flex-direction: row;
