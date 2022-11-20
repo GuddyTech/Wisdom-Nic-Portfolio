@@ -110,7 +110,7 @@ body {
         .main-div{
             // position: relative;
             box-sizing: border-box;
-            border: 1px solid yellow;
+            // border: 1px solid yellow;
             margin-top: 211px;
             text-align: center;
 
@@ -156,11 +156,10 @@ body {
         }
 
         .sect-2 {
-                
-            
+            display: flex;
+            justify-content: center;
             color: white;
             
-
             form{
                 margin-top: 73px;
 
@@ -194,18 +193,27 @@ body {
                     border: 1px solid #7D7D7D;
                     border-radius: 10px;
                 }
-            }
 
-            .for-text{
-                width: 925px;
-                height: 156px;
-                left: 258px;
-                top: 878px;
-                background: #FFFFFF;
-                border: 1px solid #7D7D7D;
-                border-radius: 10px;
+                .textLabel{
 
+                }
+
+                .for-text{
+                    width: 925px;
+                    height: 156px;
+                    left: 258px;
+                    top: 878px;
+                    background: #FFFFFF;
+                    border: 1px solid #7D7D7D;
+                    border-radius: 10px;
+    
+                }
             }
+            
+        }
+
+        .footer{
+            color: white;
 
             .send-btn{
 
@@ -214,11 +222,6 @@ body {
             .mail{
 
             }
-
-        }
-
-        .footer{
-            color: white;
 
             .social-icons {
                 display: flex;
