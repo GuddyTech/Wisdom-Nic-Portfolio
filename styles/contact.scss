@@ -213,7 +213,10 @@ body {
         }
 
         .footer{
-            color: white;
+
+            .footer-div{
+
+                color: white;
 
             .send-btn{
                 // position: absolute;
@@ -228,23 +231,6 @@ body {
                 background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
                 border-radius: 8px;
                 color: white;
-
-            }
-
-            .mail{
-                border: 1px solid #B6B3B3;
-                border-radius: 30px;
-                width: 432px;
-                height: 67px;
-
-                /* for text */
-
-                font-family: 'Nunito Sans';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 26px;
-                line-height: 35px;
-                color: #674f4f;
 
             }
 
@@ -330,6 +316,26 @@ body {
                 }
 
             }
+
+            .mail{
+                border: 1px solid #B6B3B3;
+                border-radius: 30px;
+                width: 402px;
+                height: 48px;
+
+                /* for text */
+
+                font-family: 'Nunito Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 20px;
+                line-height: 35px;
+                color: #674f4f;
+
+            }
+
+            }
+            
         }
 
     }

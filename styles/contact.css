@@ -121,10 +121,10 @@ body main .sect-2 form .for-text {
   border: 1px solid #7D7D7D;
   border-radius: 10px;
 }
-body main .footer {
+body main .footer .footer-div {
   color: white;
 }
-body main .footer .send-btn {
+body main .footer .footer-div .send-btn {
   width: 131px;
   height: 54px;
   margin-left: 145px;
@@ -133,20 +133,7 @@ body main .footer .send-btn {
   border-radius: 8px;
   color: white;
 }
-body main .footer .mail {
-  border: 1px solid #B6B3B3;
-  border-radius: 30px;
-  width: 432px;
-  height: 67px;
-  /* for text */
-  font-family: "Nunito Sans";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 26px;
-  line-height: 35px;
-  color: #674f4f;
-}
-body main .footer .social-icons {
+body main .footer .footer-div .social-icons {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -154,7 +141,7 @@ body main .footer .social-icons {
   width: 402px;
   height: 48px;
 }
-body main .footer .social-icons .twitter .twitter-svg {
+body main .footer .footer-div .social-icons .twitter .twitter-svg {
   height: 48px;
   width: 48px;
   border-radius: 50px;
@@ -162,10 +149,10 @@ body main .footer .social-icons .twitter .twitter-svg {
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-body main .footer .social-icons .twitter .twitter-svg:hover {
+body main .footer .footer-div .social-icons .twitter .twitter-svg:hover {
   transform: rotate(360deg);
 }
-body main .footer .social-icons .behance .behance-svg {
+body main .footer .footer-div .social-icons .behance .behance-svg {
   height: 48px;
   width: 48px;
   border-radius: 50px;
@@ -173,10 +160,10 @@ body main .footer .social-icons .behance .behance-svg {
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-body main .footer .social-icons .behance .behance-svg:hover {
+body main .footer .footer-div .social-icons .behance .behance-svg:hover {
   transform: rotate(360deg);
 }
-body main .footer .social-icons .linkedin .linkedin-svg {
+body main .footer .footer-div .social-icons .linkedin .linkedin-svg {
   height: 48px;
   width: 48px;
   border-radius: 50px;
@@ -184,10 +171,10 @@ body main .footer .social-icons .linkedin .linkedin-svg {
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-body main .footer .social-icons .linkedin .linkedin-svg:hover {
+body main .footer .footer-div .social-icons .linkedin .linkedin-svg:hover {
   transform: rotate(360deg);
 }
-body main .footer .social-icons .dribble .dribble-svg {
+body main .footer .footer-div .social-icons .dribble .dribble-svg {
   height: 48px;
   width: 48px;
   border-radius: 50px;
@@ -195,6 +182,19 @@ body main .footer .social-icons .dribble .dribble-svg {
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-body main .footer .social-icons .dribble .dribble-svg:hover {
+body main .footer .footer-div .social-icons .dribble .dribble-svg:hover {
   transform: rotate(360deg);
+}
+body main .footer .footer-div .mail {
+  border: 1px solid #B6B3B3;
+  border-radius: 30px;
+  width: 402px;
+  height: 48px;
+  /* for text */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #674f4f;
 }/*# sourceMappingURL=contact.css.map */
