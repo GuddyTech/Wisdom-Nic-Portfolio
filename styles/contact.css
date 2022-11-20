@@ -84,6 +84,10 @@ body main .main-div .sect-1 .line {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border-radius: 2px;
 }
+body main .sect-2 {
+  margin-bottom: 373px;
+  color: white;
+}
 body main .footer {
   color: white;
 }
