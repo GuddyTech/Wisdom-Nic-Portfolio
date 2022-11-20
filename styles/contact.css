@@ -60,7 +60,7 @@ body header nav .link-div .contact-btn-div .contact-btn:hover {
 body main .main-div {
   box-sizing: border-box;
   border: 1px solid yellow;
-  margin-top: 10%;
+  margin-top: 211px;
   text-align: center;
 }
 body main .main-div .sect-1 .abt-line {
@@ -85,8 +85,10 @@ body main .main-div .sect-1 .line {
   border-radius: 2px;
 }
 body main .sect-2 {
-  margin-bottom: 373px;
   color: white;
+}
+body main .sect-2 form {
+  margin-top: 73px;
 }
 body main .footer {
   color: white;
