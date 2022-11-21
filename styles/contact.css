@@ -132,6 +132,17 @@ body main .footer .footer-div .send-btn {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border-radius: 8px;
   color: white;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  cursor: pointer;
+  /* identical to box height */
+  color: #FFFFFF;
+}
+body main .footer .footer-div .send-btn:hover {
+  box-shadow: 1px 3px 5px 1px rgb(59, 57, 57);
 }
 body main .footer .footer-div .for-socials {
   display: flex;
