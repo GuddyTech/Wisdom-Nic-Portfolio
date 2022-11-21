@@ -133,7 +133,11 @@ body main .footer .footer-div .send-btn {
   border-radius: 8px;
   color: white;
 }
-body main .footer .footer-div .social-icons {
+body main .footer .footer-div .for-socials {
+  display: flex;
+  justify-content: center;
+}
+body main .footer .footer-div .for-socials .social-icons {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -141,7 +145,7 @@ body main .footer .footer-div .social-icons {
   width: 402px;
   height: 48px;
 }
-body main .footer .footer-div .social-icons .twitter .twitter-svg {
+body main .footer .footer-div .for-socials .social-icons .twitter .twitter-svg {
   height: 48px;
   width: 48px;
   border-radius: 50px;
@@ -149,10 +153,10 @@ body main .footer .footer-div .social-icons .twitter .twitter-svg {
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-body main .footer .footer-div .social-icons .twitter .twitter-svg:hover {
+body main .footer .footer-div .for-socials .social-icons .twitter .twitter-svg:hover {
   transform: rotate(360deg);
 }
-body main .footer .footer-div .social-icons .behance .behance-svg {
+body main .footer .footer-div .for-socials .social-icons .behance .behance-svg {
   height: 48px;
   width: 48px;
   border-radius: 50px;
@@ -160,10 +164,10 @@ body main .footer .footer-div .social-icons .behance .behance-svg {
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-body main .footer .footer-div .social-icons .behance .behance-svg:hover {
+body main .footer .footer-div .for-socials .social-icons .behance .behance-svg:hover {
   transform: rotate(360deg);
 }
-body main .footer .footer-div .social-icons .linkedin .linkedin-svg {
+body main .footer .footer-div .for-socials .social-icons .linkedin .linkedin-svg {
   height: 48px;
   width: 48px;
   border-radius: 50px;
@@ -171,10 +175,10 @@ body main .footer .footer-div .social-icons .linkedin .linkedin-svg {
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-body main .footer .footer-div .social-icons .linkedin .linkedin-svg:hover {
+body main .footer .footer-div .for-socials .social-icons .linkedin .linkedin-svg:hover {
   transform: rotate(360deg);
 }
-body main .footer .footer-div .social-icons .dribble .dribble-svg {
+body main .footer .footer-div .for-socials .social-icons .dribble .dribble-svg {
   height: 48px;
   width: 48px;
   border-radius: 50px;
@@ -182,10 +186,14 @@ body main .footer .footer-div .social-icons .dribble .dribble-svg {
   cursor: pointer;
   transition: all 1s ease-in-out;
 }
-body main .footer .footer-div .social-icons .dribble .dribble-svg:hover {
+body main .footer .footer-div .for-socials .social-icons .dribble .dribble-svg:hover {
   transform: rotate(360deg);
 }
-body main .footer .footer-div .mail {
+body main .footer .footer-div .for-mail {
+  display: flex;
+  justify-content: center;
+}
+body main .footer .footer-div .for-mail .mail {
   border: 1px solid #B6B3B3;
   border-radius: 30px;
   width: 402px;

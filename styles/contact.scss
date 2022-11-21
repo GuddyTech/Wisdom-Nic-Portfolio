@@ -215,7 +215,7 @@ body {
         .footer{
 
             .footer-div{
-
+                
                 color: white;
 
             .send-btn{
@@ -234,105 +234,117 @@ body {
 
             }
 
-            .social-icons {
+            .for-socials{
                 display: flex;
-                flex-direction: row;
-                align-items: flex-start;
-                gap: 70px;
-                width: 402px;
-                height: 48px;
-                // border: 1px solid red;
+                justify-content: center;
 
-                .twitter {
-                    .twitter-svg {
-                        height: 48px;
-                        width: 48px;
-                        border-radius: 50px;
-                        box-shadow: 0px 0px 4px 4px grey;
-                        cursor: pointer;
-                        transition: all 1s ease-in-out;
-
-                        &:hover {
-                            transform: rotate(360deg);
-                            // box-shadow: 1px 1px 4px 4px grey;
+                .social-icons {
+                    display: flex;
+                    flex-direction: row;
+                    align-items: flex-start;
+                    gap: 70px;
+                    width: 402px;
+                    height: 48px;
+                    // border: 1px solid red;
+    
+                    .twitter {
+                        .twitter-svg {
+                            height: 48px;
+                            width: 48px;
+                            border-radius: 50px;
+                            box-shadow: 0px 0px 4px 4px grey;
+                            cursor: pointer;
+                            transition: all 1s ease-in-out;
+    
+                            &:hover {
+                                transform: rotate(360deg);
+                                // box-shadow: 1px 1px 4px 4px grey;
+                            }
+    
                         }
-
+    
                     }
-
-                }
-
-                .behance {
-                    .behance-svg {
-                        height: 48px;
-                        width: 48px;
-                        border-radius: 50px;
-                        box-shadow: 0px 0px 4px 4px grey;
-                        cursor: pointer;
-                        transition: all 1s ease-in-out;
-
-                        &:hover {
-                            transform: rotate(360deg);
-                            // box-shadow: 1px 1px 4px 4px grey;
+    
+                    .behance {
+                        .behance-svg {
+                            height: 48px;
+                            width: 48px;
+                            border-radius: 50px;
+                            box-shadow: 0px 0px 4px 4px grey;
+                            cursor: pointer;
+                            transition: all 1s ease-in-out;
+    
+                            &:hover {
+                                transform: rotate(360deg);
+                                // box-shadow: 1px 1px 4px 4px grey;
+                            }
+    
                         }
-
+    
                     }
-
-                }
-
-                .linkedin {
-                    .linkedin-svg {
-                        height: 48px;
-                        width: 48px;
-                        border-radius: 50px;
-                        box-shadow: 0px 0px 4px 4px grey;
-                        cursor: pointer;
-                        transition: all 1s ease-in-out;
-
-                        &:hover {
-                            transform: rotate(360deg);
-                            // box-shadow: 1px 1px 4px 4px grey;
+    
+                    .linkedin {
+                        .linkedin-svg {
+                            height: 48px;
+                            width: 48px;
+                            border-radius: 50px;
+                            box-shadow: 0px 0px 4px 4px grey;
+                            cursor: pointer;
+                            transition: all 1s ease-in-out;
+    
+                            &:hover {
+                                transform: rotate(360deg);
+                                // box-shadow: 1px 1px 4px 4px grey;
+                            }
+    
                         }
-
+    
                     }
-
-                }
-
-                .dribble {
-                    .dribble-svg {
-                        height: 48px;
-                        width: 48px;
-                        border-radius: 50px;
-                        box-shadow: 0px 0px 4px 4px grey;
-                        cursor: pointer;
-                        transition: all 1s ease-in-out;
-
-                        &:hover {
-                            transform: rotate(360deg);
-                            // box-shadow: 1px 1px 4px 4px grey;
+    
+                    .dribble {
+                        .dribble-svg {
+                            height: 48px;
+                            width: 48px;
+                            border-radius: 50px;
+                            box-shadow: 0px 0px 4px 4px grey;
+                            cursor: pointer;
+                            transition: all 1s ease-in-out;
+    
+                            &:hover {
+                                transform: rotate(360deg);
+                                // box-shadow: 1px 1px 4px 4px grey;
+                            }
+    
                         }
-
+    
                     }
-
+    
                 }
-
             }
 
-            .mail{
-                border: 1px solid #B6B3B3;
-                border-radius: 30px;
-                width: 402px;
-                height: 48px;
-
-                /* for text */
-
-                font-family: 'Nunito Sans';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 20px;
-                line-height: 35px;
-                color: #674f4f;
-
+            .for-mail{
+                display: flex;
+                justify-content: center;
+                
+                .mail{
+                    border: 1px solid #B6B3B3;
+                    border-radius: 30px;
+                    width: 402px;
+                    height: 48px;
+    
+                    /* for text */
+    
+                    font-family: 'Nunito Sans';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 20px;
+                    line-height: 35px;
+                    color: #674f4f;
+    
+                }
             }
+
+         
 
             }
             
