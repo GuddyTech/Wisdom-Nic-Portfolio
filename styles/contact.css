@@ -6,13 +6,15 @@
 
 body {
   box-sizing: border-box;
-  border: 1px solid black;
   background: radial-gradient(50% 50% at 50% 50%, #0E406F 0%, #0E406F 0.01%, #061625 100%);
   margin: 2% 5%;
 }
 body header nav {
   display: flex;
   justify-content: space-between;
+}
+body header nav .logo-div .logo-a {
+  text-decoration: none;
 }
 body header nav .logo-div .p-logo {
   color: white;
@@ -55,7 +57,7 @@ body header nav .link-div .contact-btn-div .contact-btn {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
 }
 body header nav .link-div .contact-btn-div .contact-btn:hover {
-  box-shadow: 1px 3px 5px 1px rgb(59, 57, 57);
+  box-shadow: 1px 3px 5px 1px rgb(97, 96, 96);
 }
 body main .main-div {
   box-sizing: border-box;
@@ -174,7 +176,7 @@ body main .footer .footer-div .send-btn {
 }
 body main .footer .footer-div .send-btn:hover {
   background: linear-gradient(131.96deg, #590FB7 -20.3%, #FF0076 150.51%);
-  box-shadow: 1px 3px 5px 1px rgb(118, 115, 115);
+  box-shadow: 1px 3px 5px 1px rgb(97, 96, 96);
 }
 body main .footer .footer-div .for-socials {
   display: flex;
