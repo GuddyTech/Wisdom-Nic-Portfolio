@@ -1,1 +1,106 @@
-/*# sourceMappingURL=projects.css.map */
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  box-sizing: border-box;
+  border: 1px solid black;
+  background: radial-gradient(50% 50% at 50% 50%, #0E406F 0%, #0E406F 0.01%, #061625 100%);
+  margin: 2% 5%;
+}
+body header nav {
+  display: flex;
+  justify-content: space-between;
+}
+body header nav .logo-div .logo-a {
+  text-decoration: none;
+}
+body header nav .logo-div .p-logo {
+  color: white;
+  font-family: "Nunito", sans-serif;
+}
+body header nav .link-div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 40px;
+}
+body header nav .link-div .link-div-ul ul {
+  display: flex;
+  gap: 40px;
+}
+body header nav .link-div .link-div-ul ul li {
+  list-style: none;
+}
+body header nav .link-div .link-div-ul ul li .a-links {
+  text-decoration: none;
+  color: white;
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
+}
+body header nav .link-div .link-div-ul ul li .a-links:hover {
+  background: linear-gradient(131.96deg, #f670af -0.3%, #8e3ff4 79.51%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 2s ease-in-out;
+}
+body header nav .link-div .contact-btn-div .contact-btn {
+  color: white;
+  background-color: transparent;
+  height: 40px;
+  width: 100px;
+  border-radius: 8px;
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
+  cursor: pointer;
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+}
+body header nav .link-div .contact-btn-div .contact-btn:hover {
+  box-shadow: 1px 3px 5px 1px rgb(59, 57, 57);
+}
+body main .main-div {
+  box-sizing: border-box;
+  border: 1px solid yellow;
+  margin-top: 10%;
+  text-align: center;
+}
+body main .main-div .sect-1 .proj-line {
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: #FFFFFF;
+}
+body main .main-div .sect-1 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin-left: 548px;
+  margin-top: 6px;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
+}
+body main .main-div .sect-1 .p-projects {
+  width: 1121px;
+  height: 210px;
+  margin-top: 35px;
+  /* Heading 1 */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 35px;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 35px auto 166px auto;
+}
+body main .sect-2 {
+  margin-top: 722px;
+}/*# sourceMappingURL=projects.css.map */
