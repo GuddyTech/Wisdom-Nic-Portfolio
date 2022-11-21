@@ -325,9 +325,10 @@ body {
             .for-mail{
                 display: flex;
                 justify-content: center;
-                
+
                 .mail{
                     border: 1px solid #B6B3B3;
+                    cursor: pointer;
                     border-radius: 30px;
                     width: 402px;
                     height: 48px;

@@ -195,6 +195,7 @@ body main .footer .footer-div .for-mail {
 }
 body main .footer .footer-div .for-mail .mail {
   border: 1px solid #B6B3B3;
+  cursor: pointer;
   border-radius: 30px;
   width: 402px;
   height: 48px;
