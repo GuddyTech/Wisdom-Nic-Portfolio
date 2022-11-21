@@ -93,6 +93,13 @@ body main .sect-2 form {
 }
 body main .sect-2 form .fullNameLabel {
   margin-bottom: 150px;
+  width: 96px;
+  height: 25px;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 5px;
 }
 body main .sect-2 form .name {
   width: 925px;
@@ -102,6 +109,17 @@ body main .sect-2 form .name {
   background: #FFFFFF;
   border: 1px solid #7D7D7D;
   border-radius: 10px;
+  padding: 20px 20px;
+  font-size: 25px;
+}
+body main .sect-2 form .emailLabel {
+  width: 96px;
+  height: 25px;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 5px;
 }
 body main .sect-2 form .email {
   width: 925px;
@@ -111,6 +129,17 @@ body main .sect-2 form .email {
   background: #FFFFFF;
   border: 1px solid #7D7D7D;
   border-radius: 10px;
+  padding: 20px 20px;
+  font-size: 25px;
+}
+body main .sect-2 form .textLabel {
+  width: 96px;
+  height: 25px;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 5px;
 }
 body main .sect-2 form .for-text {
   width: 925px;
@@ -120,6 +149,8 @@ body main .sect-2 form .for-text {
   background: #FFFFFF;
   border: 1px solid #7D7D7D;
   border-radius: 10px;
+  padding: 20px 20px;
+  font-size: 25px;
 }
 body main .footer .footer-div {
   color: white;
@@ -142,7 +173,8 @@ body main .footer .footer-div .send-btn {
   color: #FFFFFF;
 }
 body main .footer .footer-div .send-btn:hover {
-  box-shadow: 1px 3px 5px 1px rgb(59, 57, 57);
+  background: linear-gradient(131.96deg, #590FB7 -20.3%, #FF0076 150.51%);
+  box-shadow: 1px 3px 5px 1px rgb(118, 115, 115);
 }
 body main .footer .footer-div .for-socials {
   display: flex;
