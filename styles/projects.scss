@@ -171,7 +171,7 @@ body {
                     text-align: center;
                     color: #FFFFFF;
                     // border: 1px solid white;
-                    margin: 35px auto 166px auto;
+                    margin: 35px auto 16px auto;
     
                 }
     
@@ -179,33 +179,69 @@ body {
             }
         }
 
-        .sect-2{
-            margin-top: 722px;
+        .sect-2 {
+            // border: 1px solid yellow;
+            // background-color: yellow;
+            
+            .case-line {
+                width: 192px;
+                height: 57px;
 
-            .icons{
+                /* Heading 2 Bold */
 
-                .star{
+                font-family: 'Nunito Sans';
+                font-style: normal;
+                font-weight: 700;
+                font-size: 42px;
+                line-height: 57px;
+                color: #FFFFFF;
+                // display: flex;
+                // justify-content: center;
+                // text-align: center;
+                // justify-content: ;
 
-                }
-
-                .cradle{
-
-                }
-
-                .droplet{
-
-                }
-
-                .vintage{
-
-                }
+                
             }
 
-            .experiences{
+            .line{
+                /* Rectangle 7 */
+
+                width: 122px;
+                height: 5px;
+                margin-left: 548px;
+                margin-top: 6px;
+
+                /* Design Color */
+
+                background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+                border-radius: 2px;
+                
 
             }
+
+            .p-case{
+                width: 1121px;
+                height: 210px;
+                // left: 159px;
+                margin-top: 35px;
+
+                /* Heading 1 */
+
+                font-family: 'Nunito Sans';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 26px;
+                line-height: 35px;
+                text-align: center;
+                color: #FFFFFF;
+                // border: 1px solid white;
+                margin: 35px auto 166px auto;
+
+            }
+
 
         }
+
     }
 
 }

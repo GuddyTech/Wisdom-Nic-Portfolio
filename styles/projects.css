@@ -99,8 +99,40 @@ body main .main-div .sect-1 .p-projects {
   line-height: 35px;
   text-align: center;
   color: #FFFFFF;
-  margin: 35px auto 166px auto;
+  margin: 35px auto 16px auto;
 }
-body main .sect-2 {
-  margin-top: 722px;
+body main .sect-2 .case-line {
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: #FFFFFF;
+}
+body main .sect-2 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin-left: 548px;
+  margin-top: 6px;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
+}
+body main .sect-2 .p-case {
+  width: 1121px;
+  height: 210px;
+  margin-top: 35px;
+  /* Heading 1 */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 35px;
+  text-align: center;
+  color: #FFFFFF;
+  margin: 35px auto 166px auto;
 }/*# sourceMappingURL=projects.css.map */
