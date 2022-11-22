@@ -7,8 +7,6 @@
 body {
   box-sizing: border-box;
   border: 1px solid black;
-  background: radial-gradient(50% 50% at 50% 50%, #0E406F 0%, #0E406F 0.01%, #061625 100%);
-  margin: 2% 5%;
 }
 body header nav {
   display: flex;
@@ -100,6 +98,9 @@ body main .main-div .sect-1 .p-projects {
   text-align: center;
   color: #FFFFFF;
   margin: 35px auto 16px auto;
+}
+body main .sect-2 {
+  background: yellow;
 }
 body main .sect-2 .case-line {
   width: 192px;
