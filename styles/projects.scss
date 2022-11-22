@@ -11,14 +11,15 @@ $borderGradientColor: linear-gradient(to right, red, purple);
 body {
     box-sizing: border-box;
     border: 1px solid black;
-    // background: radial-gradient(50% 50% at 50% 50%, #0E406F 0%, #0E406F 0.01%, #061625 100%);
-    // margin: 2% 5%;
+    background: radial-gradient(50% 50% at 50% 50%, #0E406F 0%, #0E406F 0.01%, #061625 100%);
+    // background-color: blue;
+    
     // height: 722px;
     // position: relative;
     
 
     header {
-        
+        margin: 2% 5%;
 
         nav {
             display: flex;
@@ -110,6 +111,7 @@ body {
     }
 
     main {
+        background: yellow;
        
         .main-div{
             // position: relative;
@@ -182,7 +184,7 @@ body {
 
         .sect-2 {
             // border: 1px solid yellow;
-            background: yellow;
+            // background: yellow;
             
             .case-line {
                 width: 192px;
