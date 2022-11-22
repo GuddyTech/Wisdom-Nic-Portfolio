@@ -110,6 +110,7 @@ body main .new {
   background-color: white;
 }
 body main .new .sect-2 .case-line {
+  margin: 2% 5%;
   width: 192px;
   height: 57px;
   /* Heading 2 Bold */
@@ -124,7 +125,7 @@ body main .new .sect-2 .line {
   /* Rectangle 7 */
   width: 122px;
   height: 5px;
-  margin-left: 548px;
+  margin-left: 620px;
   margin-top: 6px;
   /* Design Color */
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
