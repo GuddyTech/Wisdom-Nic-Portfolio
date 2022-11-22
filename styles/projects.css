@@ -9,6 +9,9 @@ body {
   border: 1px solid black;
   background: radial-gradient(50% 50% at 50% 50%, #0E406F 0%, #0E406F 0.01%, #061625 100%);
 }
+body header {
+  margin: 2% 5%;
+}
 body header nav {
   display: flex;
   justify-content: space-between;
@@ -65,7 +68,10 @@ body main .main-div {
   margin-top: 10%;
   text-align: center;
 }
-body main .main-div .sect-1 .proj-line {
+body main .main-div .sect-1-wrapper {
+  margin: 2% 5%;
+}
+body main .main-div .sect-1-wrapper .sect-1 .proj-line {
   width: 192px;
   height: 57px;
   /* Heading 2 Bold */
@@ -76,7 +82,7 @@ body main .main-div .sect-1 .proj-line {
   line-height: 57px;
   color: #FFFFFF;
 }
-body main .main-div .sect-1 .line {
+body main .main-div .sect-1-wrapper .sect-1 .line {
   /* Rectangle 7 */
   width: 122px;
   height: 5px;
@@ -86,7 +92,7 @@ body main .main-div .sect-1 .line {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border-radius: 2px;
 }
-body main .main-div .sect-1 .p-projects {
+body main .main-div .sect-1-wrapper .sect-1 .p-projects {
   width: 1121px;
   height: 210px;
   margin-top: 35px;

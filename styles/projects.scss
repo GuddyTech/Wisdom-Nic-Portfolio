@@ -19,7 +19,7 @@ body {
     
 
     header {
-        // margin: 2% 5%;
+        margin: 2% 5%;
         
 
         nav {
@@ -115,75 +115,79 @@ body {
         
         
        
-        .main-div{
-           
+        .main-div{           
             // position: relative;
             box-sizing: border-box;
             border: 1px solid yellow;
             margin-top: 10%;
             text-align: center;
 
-            .sect-1 {
-                
-                // background: white;
-                // border: 1px solid black;
-                // background-color: yellow;
-    
-                .proj-line {
-                    width: 192px;
-                    height: 57px;
-    
-                    /* Heading 2 Bold */
-    
-                    font-family: 'Nunito Sans';
-                    font-style: normal;
-                    font-weight: 700;
-                    font-size: 42px;
-                    line-height: 57px;
-                    color: #FFFFFF;
-                    // text-align: center;
-                    // justify-content: ;
-    
+            .sect-1-wrapper{
+                margin: 2% 5%;
+
+                .sect-1 {
                     
-                }
-    
-                .line{
-                    /* Rectangle 7 */
-    
-                    width: 122px;
-                    height: 5px;
-                    margin-left: 548px;
-                    margin-top: 6px;
-    
-                    /* Design Color */
-    
-                    background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
-                    border-radius: 2px;
                     
-    
+                    // background: white;
+                    // border: 1px solid black;
+                    // background-color: yellow;
+        
+                    .proj-line {
+                        width: 192px;
+                        height: 57px;
+        
+                        /* Heading 2 Bold */
+        
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 42px;
+                        line-height: 57px;
+                        color: #FFFFFF;
+                        // text-align: center;
+                        // justify-content: ;
+        
+                        
+                    }
+        
+                    .line{
+                        /* Rectangle 7 */
+        
+                        width: 122px;
+                        height: 5px;
+                        margin-left: 548px;
+                        margin-top: 6px;
+        
+                        /* Design Color */
+        
+                        background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+                        border-radius: 2px;
+                        
+        
+                    }
+        
+                    .p-projects{
+                        width: 1121px;
+                        height: 210px;
+                        // left: 159px;
+                        margin-top: 35px;
+        
+                        /* Heading 1 */
+        
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 26px;
+                        line-height: 35px;
+                        text-align: center;
+                        color: #FFFFFF;
+                        // border: 1px solid white;
+                        margin: 35px auto 16px auto;
+        
+                    }
+        
+        
                 }
-    
-                .p-projects{
-                    width: 1121px;
-                    height: 210px;
-                    // left: 159px;
-                    margin-top: 35px;
-    
-                    /* Heading 1 */
-    
-                    font-family: 'Nunito Sans';
-                    font-style: normal;
-                    font-weight: 400;
-                    font-size: 26px;
-                    line-height: 35px;
-                    text-align: center;
-                    color: #FFFFFF;
-                    // border: 1px solid white;
-                    margin: 35px auto 16px auto;
-    
-                }
-    
-    
             }
         }
 
