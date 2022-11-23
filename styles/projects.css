@@ -107,7 +107,8 @@ body main .main-div .sect-1-wrapper .sect-1 .p-projects {
   margin: 35px auto 16px auto;
 }
 body main .new {
-  background-color: white;
+  background-color: whitesmoke;
+  border: 2px solid green;
 }
 body main .new .sect-2 .rect-1 {
   position: absolute;
