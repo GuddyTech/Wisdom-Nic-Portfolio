@@ -279,6 +279,7 @@ body {
                     .flex-1{
 
                         .svg-1{
+                            position: relative;
 
                             .flex-1-img{
 
@@ -291,13 +292,14 @@ body {
                                 }
 
                                 .line{
-                                    
+
                                 }
                             }
 
                         }
 
                         .svg-2{
+                            position: relative;
 
                             .flex-1-img{
 
@@ -310,7 +312,7 @@ body {
                                 }
 
                                 .line{
-                                    
+
                                 }
                             }
 
@@ -321,25 +323,69 @@ body {
                     .flex-2{
 
                         .svg-3{
+                            position: relative;
 
                             .flex-2-img{
 
                             }
 
-                            .rect-1{
+                           .rect-1{
+                    position: absolute;
+                    width: 611px;
+                    height: 159px;
+                    left: 363px;
+                    top: 58px;
+                    
+                    background: #FFFFFF;
+                    border: 1px solid #D5D5D5;
+                    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+                    border-radius: 35px 35px 0px 0px;
 
-                                .case-line{
 
-                                }
+                    .case-line {
+                        margin: 2% 5%;
+                        width: 192px;
+                        height: 57px;
+        
+                        /* Heading 2 Bold */
+        
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 42px;
+                        line-height: 57px;
+                        color: black;
+                        // display: flex;
+                        // justify-content: center;
+                        // text-align: center;
+                        // justify-content: ;
+        
+                        
+                    }
+        
+                    .line{
+                        /* Rectangle 7 */
+        
+                        width: 122px;
+                        height: 5px;
+                        margin: 0 auto;
+                        // margin-left: 0px;
+                        // margin-top: 6px;
+        
+                        /* Design Color */
+        
+                        background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+                        border-radius: 2px;
+                        
+        
+                    }
 
-                                .line{
-                                    
-                                }
-                            }
+                }
 
                         }
 
                         .svg-4{
+                            position: relative;
 
                             .flex-2-img{
 
@@ -352,7 +398,7 @@ body {
                                 }
 
                                 .line{
-                                    
+
                                 }
                             }
 
@@ -363,6 +409,7 @@ body {
                     .flex-3{
 
                         .svg-5{
+                            position: relative;
 
                             .flex-3-img{
 
@@ -375,13 +422,14 @@ body {
                                 }
 
                                 .line{
-                                    
+
                                 }
                             }
 
                         }
 
                         .svg-6{
+                            position: relative;
 
                             .flex-3-img{
 
@@ -394,7 +442,7 @@ body {
                                 }
 
                                 .line{
-                                    
+
                                 }
                             }
 
@@ -405,6 +453,7 @@ body {
                     .flex-4{
 
                         .svg-7{
+                            position: relative;
 
                             .flex-4-img{
 
@@ -417,13 +466,14 @@ body {
                                 }
 
                                 .line{
-                                    
+
                                 }
                             }
 
                         }
 
                         .svg-8{
+                            position: relative;
 
                             .flex-4-img{
 
@@ -436,7 +486,7 @@ body {
                                 }
 
                                 .line{
-                                    
+
                                 }
                             }
 
