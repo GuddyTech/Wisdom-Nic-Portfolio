@@ -159,8 +159,72 @@ body main .new .sect-2 .p-case {
 body main .new .sect-2 .project-img .flex-1 .svg-1 {
   position: relative;
 }
+body main .new .sect-2 .project-img .flex-1 .svg-1 .rect-1 {
+  position: absolute;
+  width: 611px;
+  height: 159px;
+  left: 363px;
+  top: 58px;
+  background: #FFFFFF;
+  border: 1px solid #D5D5D5;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 35px 35px 0px 0px;
+}
+body main .new .sect-2 .project-img .flex-1 .svg-1 .rect-1 .case-line {
+  margin: 2% 5%;
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: black;
+}
+body main .new .sect-2 .project-img .flex-1 .svg-1 .rect-1 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin: 0 auto;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
+}
 body main .new .sect-2 .project-img .flex-1 .svg-2 {
   position: relative;
+}
+body main .new .sect-2 .project-img .flex-1 .svg-2 .rect-1 {
+  position: absolute;
+  width: 611px;
+  height: 159px;
+  left: 363px;
+  top: 58px;
+  background: #FFFFFF;
+  border: 1px solid #D5D5D5;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 35px 35px 0px 0px;
+}
+body main .new .sect-2 .project-img .flex-1 .svg-2 .rect-1 .case-line {
+  margin: 2% 5%;
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: black;
+}
+body main .new .sect-2 .project-img .flex-1 .svg-2 .rect-1 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin: 0 auto;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
 }
 body main .new .sect-2 .project-img .flex-2 .svg-3 {
   position: relative;
@@ -200,15 +264,175 @@ body main .new .sect-2 .project-img .flex-2 .svg-3 .rect-1 .line {
 body main .new .sect-2 .project-img .flex-2 .svg-4 {
   position: relative;
 }
+body main .new .sect-2 .project-img .flex-2 .svg-4 .rect-1 {
+  position: absolute;
+  width: 611px;
+  height: 159px;
+  left: 363px;
+  top: 58px;
+  background: #FFFFFF;
+  border: 1px solid #D5D5D5;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 35px 35px 0px 0px;
+}
+body main .new .sect-2 .project-img .flex-2 .svg-4 .rect-1 .case-line {
+  margin: 2% 5%;
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: black;
+}
+body main .new .sect-2 .project-img .flex-2 .svg-4 .rect-1 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin: 0 auto;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
+}
 body main .new .sect-2 .project-img .flex-3 .svg-5 {
   position: relative;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-5 .rect-1 {
+  position: absolute;
+  width: 611px;
+  height: 159px;
+  left: 363px;
+  top: 58px;
+  background: #FFFFFF;
+  border: 1px solid #D5D5D5;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 35px 35px 0px 0px;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-5 .rect-1 .case-line {
+  margin: 2% 5%;
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: black;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-5 .rect-1 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin: 0 auto;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
 }
 body main .new .sect-2 .project-img .flex-3 .svg-6 {
   position: relative;
 }
+body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 {
+  position: absolute;
+  width: 611px;
+  height: 159px;
+  left: 363px;
+  top: 58px;
+  background: #FFFFFF;
+  border: 1px solid #D5D5D5;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 35px 35px 0px 0px;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 .case-line {
+  margin: 2% 5%;
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: black;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin: 0 auto;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
+}
 body main .new .sect-2 .project-img .flex-4 .svg-7 {
   position: relative;
 }
+body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 {
+  position: absolute;
+  width: 611px;
+  height: 159px;
+  left: 363px;
+  top: 58px;
+  background: #FFFFFF;
+  border: 1px solid #D5D5D5;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 35px 35px 0px 0px;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 .case-line {
+  margin: 2% 5%;
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: black;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin: 0 auto;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
+}
 body main .new .sect-2 .project-img .flex-4 .svg-8 {
   position: relative;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 {
+  position: absolute;
+  width: 611px;
+  height: 159px;
+  left: 363px;
+  top: 58px;
+  background: #FFFFFF;
+  border: 1px solid #D5D5D5;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 35px 35px 0px 0px;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .case-line {
+  margin: 2% 5%;
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: black;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin: 0 auto;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
 }/*# sourceMappingURL=projects.css.map */
