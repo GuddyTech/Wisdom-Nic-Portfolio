@@ -158,6 +158,7 @@ body main .new .sect-2 .p-case {
 }
 body main .new .sect-2 .project-img .flex-1 {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin: 2% 5%;
 }
@@ -257,6 +258,7 @@ body main .new .sect-2 .project-img .flex-1 .svg-2 .rect-1 .line {
 }
 body main .new .sect-2 .project-img .flex-2 {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin: 2% 5%;
 }
@@ -356,6 +358,7 @@ body main .new .sect-2 .project-img .flex-2 .svg-4 .rect-1 .line {
 }
 body main .new .sect-2 .project-img .flex-3 {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin: 2% 5%;
 }
@@ -455,6 +458,7 @@ body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 .line {
 }
 body main .new .sect-2 .project-img .flex-4 {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin: 2% 5%;
 }
@@ -551,4 +555,108 @@ body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .line {
   /* Design Color */
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border-radius: 2px;
+}
+body .footer .footer-div {
+  color: white;
+}
+body .footer .footer-div .send-btn {
+  width: 131px;
+  height: 54px;
+  margin-left: 145px;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 8px;
+  color: white;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  cursor: pointer;
+  /* identical to box height */
+  color: #FFFFFF;
+}
+body .footer .footer-div .send-btn:hover {
+  background: linear-gradient(131.96deg, #590FB7 -20.3%, #FF0076 150.51%);
+  box-shadow: 1px 3px 5px 1px rgb(97, 96, 96);
+}
+body .footer .footer-div .for-socials {
+  display: flex;
+  justify-content: center;
+}
+body .footer .footer-div .for-socials .social-icons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 70px;
+  width: 402px;
+  height: 48px;
+}
+body .footer .footer-div .for-socials .social-icons .twitter .twitter-svg {
+  height: 48px;
+  width: 48px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 4px 4px grey;
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+body .footer .footer-div .for-socials .social-icons .twitter .twitter-svg:hover {
+  transform: rotate(360deg);
+}
+body .footer .footer-div .for-socials .social-icons .behance .behance-svg {
+  height: 48px;
+  width: 48px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 4px 4px grey;
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+body .footer .footer-div .for-socials .social-icons .behance .behance-svg:hover {
+  transform: rotate(360deg);
+}
+body .footer .footer-div .for-socials .social-icons .linkedin .linkedin-svg {
+  height: 48px;
+  width: 48px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 4px 4px grey;
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+body .footer .footer-div .for-socials .social-icons .linkedin .linkedin-svg:hover {
+  transform: rotate(360deg);
+}
+body .footer .footer-div .for-socials .social-icons .dribble .dribble-svg {
+  height: 48px;
+  width: 48px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 4px 4px grey;
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+}
+body .footer .footer-div .for-socials .social-icons .dribble .dribble-svg:hover {
+  transform: rotate(360deg);
+}
+body .footer .footer-div .for-mail {
+  display: flex;
+  justify-content: center;
+}
+body .footer .footer-div .for-mail .mail {
+  border: 1px solid #B6B3B3;
+  cursor: pointer;
+  border-radius: 30px;
+  width: 402px;
+  height: 48px;
+  /* for text */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #674f4f;
+  box-shadow: 0px 0px 4px 4px grey;
+  transition: all 0.5s ease-in-out;
+}
+body .footer .footer-div .for-mail .mail:hover {
+  background-color: rgb(79, 79, 96);
+  color: white;
 }/*# sourceMappingURL=projects.css.map */
