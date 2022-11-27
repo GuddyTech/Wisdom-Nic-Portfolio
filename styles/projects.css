@@ -318,8 +318,9 @@ body main .new .sect-2 .project-img .flex-3 .svg-5 {
   position: relative;
 }
 body main .new .sect-2 .project-img .flex-3 .svg-5 .flex-3-img {
-  width: 611px;
-  height: 447px;
+  border: 1px solid black;
+  width: 587px;
+  height: 436px;
 }
 body main .new .sect-2 .project-img .flex-3 .svg-5 .rect-1 {
   position: absolute;
