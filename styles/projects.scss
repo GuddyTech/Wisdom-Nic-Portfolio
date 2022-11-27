@@ -533,6 +533,10 @@ body {
                     }
 
                     .flex-3{
+                        display: flex;
+                        justify-content: space-between;
+                        border: 1px solid black;
+                        margin: 2% 5%;
 
                         .svg-5{
                             position: relative;
