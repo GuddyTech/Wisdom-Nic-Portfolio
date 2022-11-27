@@ -367,10 +367,18 @@ body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 .line {
   border-radius: 2px;
 }
 body main .new .sect-2 .project-img .flex-4 {
+  display: flex;
+  justify-content: space-between;
   border: 1px solid black;
+  margin: 2% 5%;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-7 {
   position: relative;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-7 .flex-4-img {
+  border: 1px solid black;
+  width: 587px;
+  height: 436px;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 {
   position: absolute;
@@ -406,6 +414,11 @@ body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 .line {
 }
 body main .new .sect-2 .project-img .flex-4 .svg-8 {
   position: relative;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-8 .flex-4-img {
+  border: 1px solid black;
+  width: 587px;
+  height: 436px;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 {
   position: absolute;
