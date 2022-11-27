@@ -929,6 +929,8 @@ body {
     }
 
     .footer{
+        border: 1px solid yellow;
+        text-align: center;
 
         .footer-div{
             
@@ -966,8 +968,10 @@ body {
         // }
 
         .footer-line {
+            // border: 1px solid black;
             width: 192px;
             height: 57px;
+            // margin: 0 auto;
 
             /* Heading 2 Bold */
 
@@ -988,8 +992,9 @@ body {
 
             width: 122px;
             height: 5px;
-            margin-left: 548px;
-            margin-top: 6px;
+            margin: 0 auto;
+            // margin-left: 548px;
+            // margin-top: 6px;
 
             /* Design Color */
 

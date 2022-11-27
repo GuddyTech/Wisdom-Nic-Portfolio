@@ -556,6 +556,10 @@ body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .line {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border-radius: 2px;
 }
+body .footer {
+  border: 1px solid yellow;
+  text-align: center;
+}
 body .footer .footer-div {
   color: white;
 }
@@ -574,8 +578,7 @@ body .footer .footer-div .f-line {
   /* Rectangle 7 */
   width: 122px;
   height: 5px;
-  margin-left: 548px;
-  margin-top: 6px;
+  margin: 0 auto;
   /* Design Color */
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border-radius: 2px;
