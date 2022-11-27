@@ -6,7 +6,6 @@
 
 body {
   box-sizing: border-box;
-  border: 1px solid black;
   background: radial-gradient(50% 50% at 50% 50%, #0E406F 0%, #0E406F 0.01%, #061625 100%);
 }
 body header {
@@ -64,7 +63,6 @@ body header nav .link-div .contact-btn-div .contact-btn:hover {
 }
 body main .main-div {
   box-sizing: border-box;
-  border: 1px solid yellow;
   margin-top: 10%;
   text-align: center;
 }
@@ -107,21 +105,18 @@ body main .main-div .sect-1-wrapper .sect-1 .p-projects {
   margin: 35px auto 16px auto;
 }
 body main .new {
-  background-color: whitesmoke;
-  border: 2px solid green;
+  background-color: white;
 }
-body main .new .sect-2 .rect-1 {
+body main .new .sect-2 .rect-1-top {
   position: absolute;
   width: 611px;
   height: 159px;
   left: 363px;
-  top: 508px;
+  top: 470px;
   background: #FFFFFF;
-  border: 1px solid #D5D5D5;
-  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
   border-radius: 35px 35px 0px 0px;
 }
-body main .new .sect-2 .rect-1 .case-line {
+body main .new .sect-2 .rect-1-top .case-line {
   margin: 2% 5%;
   width: 192px;
   height: 57px;
@@ -133,7 +128,7 @@ body main .new .sect-2 .rect-1 .case-line {
   line-height: 57px;
   color: black;
 }
-body main .new .sect-2 .rect-1 .line {
+body main .new .sect-2 .rect-1-top .line {
   /* Rectangle 7 */
   width: 122px;
   height: 5px;
@@ -557,7 +552,6 @@ body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .line {
   border-radius: 2px;
 }
 body .footer {
-  border: 1px solid yellow;
   text-align: center;
 }
 body .footer .footer-div {
@@ -570,8 +564,8 @@ body .footer .footer-div .footer-line {
   font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 700;
-  font-size: 42px;
-  line-height: 57px;
+  font-size: 26px;
+  line-height: 35.46px;
   color: #FFFFFF;
 }
 body .footer .footer-div .f-line {
