@@ -934,36 +934,36 @@ body {
             
             color: white;
 
-        .send-btn{
-            // position: absolute;
-            width: 131px;
-            height: 54px;
-            margin-left: 145px;
-            // left: 258px;
-            // top: 1094px;
+        // .send-btn{
+        //     // position: absolute;
+        //     width: 131px;
+        //     height: 54px;
+        //     margin-left: 145px;
+        //     // left: 258px;
+        //     // top: 1094px;
 
-            /* Design Color */
+        //     /* Design Color */
 
-            background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
-            border-radius: 8px;
-            color: white;  
-            font-family: 'Nunito Sans';
-            font-style: normal;
-            font-weight: 700;
-            font-size: 18px;
-            line-height: 22px;
-            cursor: pointer;
+        //     background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+        //     border-radius: 8px;
+        //     color: white;  
+        //     font-family: 'Nunito Sans';
+        //     font-style: normal;
+        //     font-weight: 700;
+        //     font-size: 18px;
+        //     line-height: 22px;
+        //     cursor: pointer;
 
-            /* identical to box height */
-            color: #FFFFFF;
-            // transition: all .5s ease-in-out;
+        //     /* identical to box height */
+        //     color: #FFFFFF;
+        //     // transition: all .5s ease-in-out;
 
-            &:hover {
-                background: linear-gradient(131.96deg, #590FB7 -20.3%,  #FF0076 150.51%);
+        //     &:hover {
+        //         background: linear-gradient(131.96deg, #590FB7 -20.3%,  #FF0076 150.51%);
 
-                box-shadow: 1px 3px 5px 1px rgb(97, 96, 96);
-            }
-        }
+        //         box-shadow: 1px 3px 5px 1px rgb(97, 96, 96);
+        //     }
+        // }
 
         .for-socials{
             display: flex;

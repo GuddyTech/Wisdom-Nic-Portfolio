@@ -559,27 +559,6 @@ body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .line {
 body .footer .footer-div {
   color: white;
 }
-body .footer .footer-div .send-btn {
-  width: 131px;
-  height: 54px;
-  margin-left: 145px;
-  /* Design Color */
-  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
-  border-radius: 8px;
-  color: white;
-  font-family: "Nunito Sans";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 22px;
-  cursor: pointer;
-  /* identical to box height */
-  color: #FFFFFF;
-}
-body .footer .footer-div .send-btn:hover {
-  background: linear-gradient(131.96deg, #590FB7 -20.3%, #FF0076 150.51%);
-  box-shadow: 1px 3px 5px 1px rgb(97, 96, 96);
-}
 body .footer .footer-div .for-socials {
   display: flex;
   justify-content: center;
