@@ -258,14 +258,16 @@ body main .new .sect-2 .project-img .flex-1 .svg-2 .rect-1 .line {
 body main .new .sect-2 .project-img .flex-2 {
   display: flex;
   justify-content: space-between;
-  border: 1px solid black;
   margin: 2% 5%;
 }
 body main .new .sect-2 .project-img .flex-2 .svg-3 {
   position: relative;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-2 .svg-3:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-2 .svg-3 .flex-2-img {
-  border: 1px solid black;
   width: 587px;
   height: 436px;
 }
@@ -279,6 +281,10 @@ body main .new .sect-2 .project-img .flex-2 .svg-3 .rect-1 {
   border: 1px solid #D5D5D5;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
   border-radius: 35px 35px 0px 0px;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-2 .svg-3 .rect-1:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-2 .svg-3 .rect-1 .case-line {
   margin: 2% 5%;
@@ -303,9 +309,12 @@ body main .new .sect-2 .project-img .flex-2 .svg-3 .rect-1 .line {
 }
 body main .new .sect-2 .project-img .flex-2 .svg-4 {
   position: relative;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-2 .svg-4:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-2 .svg-4 .flex-2-img {
-  border: 1px solid black;
   width: 587px;
   height: 436px;
 }
@@ -319,6 +328,10 @@ body main .new .sect-2 .project-img .flex-2 .svg-4 .rect-1 {
   border: 1px solid #D5D5D5;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
   border-radius: 35px 35px 0px 0px;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-2 .svg-4 .rect-1:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-2 .svg-4 .rect-1 .case-line {
   margin: 2% 5%;
@@ -344,14 +357,16 @@ body main .new .sect-2 .project-img .flex-2 .svg-4 .rect-1 .line {
 body main .new .sect-2 .project-img .flex-3 {
   display: flex;
   justify-content: space-between;
-  border: 1px solid black;
   margin: 2% 5%;
 }
 body main .new .sect-2 .project-img .flex-3 .svg-5 {
   position: relative;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-5:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-3 .svg-5 .flex-3-img {
-  border: 1px solid black;
   width: 587px;
   height: 436px;
 }
@@ -365,6 +380,10 @@ body main .new .sect-2 .project-img .flex-3 .svg-5 .rect-1 {
   border: 1px solid #D5D5D5;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
   border-radius: 35px 35px 0px 0px;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-5 .rect-1:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-3 .svg-5 .rect-1 .case-line {
   margin: 2% 5%;
@@ -389,9 +408,12 @@ body main .new .sect-2 .project-img .flex-3 .svg-5 .rect-1 .line {
 }
 body main .new .sect-2 .project-img .flex-3 .svg-6 {
   position: relative;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-6:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-3 .svg-6 .flex-3-img {
-  border: 1px solid black;
   width: 587px;
   height: 436px;
 }
@@ -405,6 +427,10 @@ body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 {
   border: 1px solid #D5D5D5;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
   border-radius: 35px 35px 0px 0px;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 .case-line {
   margin: 2% 5%;
@@ -430,14 +456,16 @@ body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 .line {
 body main .new .sect-2 .project-img .flex-4 {
   display: flex;
   justify-content: space-between;
-  border: 1px solid black;
   margin: 2% 5%;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-7 {
   position: relative;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-7:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-7 .flex-4-img {
-  border: 1px solid black;
   width: 587px;
   height: 436px;
 }
@@ -451,6 +479,10 @@ body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 {
   border: 1px solid #D5D5D5;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
   border-radius: 35px 35px 0px 0px;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 .case-line {
   margin: 2% 5%;
@@ -475,9 +507,12 @@ body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 .line {
 }
 body main .new .sect-2 .project-img .flex-4 .svg-8 {
   position: relative;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-8:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-8 .flex-4-img {
-  border: 1px solid black;
   width: 587px;
   height: 436px;
 }
@@ -491,6 +526,10 @@ body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 {
   border: 1px solid #D5D5D5;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
   border-radius: 35px 35px 0px 0px;
+  transition: all 0.3s linear;
+}
+body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1:hover {
+  box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .case-line {
   margin: 2% 5%;
