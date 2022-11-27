@@ -366,6 +366,9 @@ body main .new .sect-2 .project-img .flex-3 .svg-6 .rect-1 .line {
   background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
   border-radius: 2px;
 }
+body main .new .sect-2 .project-img .flex-4 {
+  border: 1px solid black;
+}
 body main .new .sect-2 .project-img .flex-4 .svg-7 {
   position: relative;
 }
