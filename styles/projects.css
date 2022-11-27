@@ -559,6 +559,27 @@ body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .line {
 body .footer .footer-div {
   color: white;
 }
+body .footer .footer-div .proj-line {
+  width: 192px;
+  height: 57px;
+  /* Heading 2 Bold */
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 57px;
+  color: #FFFFFF;
+}
+body .footer .footer-div .line {
+  /* Rectangle 7 */
+  width: 122px;
+  height: 5px;
+  margin-left: 548px;
+  margin-top: 6px;
+  /* Design Color */
+  background: linear-gradient(131.96deg, #FF0076 -20.3%, #590FB7 79.51%);
+  border-radius: 2px;
+}
 body .footer .footer-div .for-socials {
   display: flex;
   justify-content: center;
