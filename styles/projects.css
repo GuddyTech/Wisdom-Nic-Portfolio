@@ -559,7 +559,7 @@ body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .line {
 body .footer .footer-div {
   color: white;
 }
-body .footer .footer-div .proj-line {
+body .footer .footer-div .footer-line {
   width: 192px;
   height: 57px;
   /* Heading 2 Bold */
@@ -570,7 +570,7 @@ body .footer .footer-div .proj-line {
   line-height: 57px;
   color: #FFFFFF;
 }
-body .footer .footer-div .line {
+body .footer .footer-div .f-line {
   /* Rectangle 7 */
   width: 122px;
   height: 5px;
