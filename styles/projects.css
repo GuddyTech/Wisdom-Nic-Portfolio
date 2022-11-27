@@ -156,6 +156,12 @@ body main .new .sect-2 .p-case {
   color: black;
   margin: 35px auto 166px auto;
 }
+body main .new .sect-2 .project-img .flex-1 {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  margin: 2% 5%;
+}
 body main .new .sect-2 .project-img .flex-1 .svg-1 {
   position: relative;
 }
