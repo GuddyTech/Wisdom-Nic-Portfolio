@@ -184,9 +184,6 @@ body main .new .sect-2 .project-img .flex-1 .svg-1 .rect-1:hover {
   box-shadow: 1px 1px 4px 4px grey;
 }
 body main .new .sect-2 .project-img .flex-1 .svg-1 .rect-1 .case-line {
-  margin: 2% 5%;
-  width: 192px;
-  height: 57px;
   /* Heading 2 Bold */
   /* Heading 1 Bold */
   font-family: "Nunito Sans";
