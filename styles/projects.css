@@ -466,17 +466,14 @@ body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 {
 body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1:hover {
   box-shadow: 1px 1px 4px 4px grey;
 }
-body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 .case-line {
-  margin: 2% 5%;
-  width: 192px;
-  height: 57px;
+body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 .case-line7 {
   /* Heading 2 Bold */
   font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 700;
-  font-size: 42px;
-  line-height: 57px;
-  color: black;
+  font-size: 26px;
+  line-height: 35px;
+  color: #000000;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-7 .rect-1 .line {
   /* Rectangle 7 */
@@ -513,17 +510,14 @@ body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 {
 body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1:hover {
   box-shadow: 1px 1px 4px 4px grey;
 }
-body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .case-line {
-  margin: 2% 5%;
-  width: 192px;
-  height: 57px;
+body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .case-line8 {
   /* Heading 2 Bold */
   font-family: "Nunito Sans";
   font-style: normal;
   font-weight: 700;
-  font-size: 42px;
-  line-height: 57px;
-  color: black;
+  font-size: 26px;
+  line-height: 35px;
+  color: #000000;
 }
 body main .new .sect-2 .project-img .flex-4 .svg-8 .rect-1 .line {
   /* Rectangle 7 */
