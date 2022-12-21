@@ -316,7 +316,7 @@ body {
                                 }
 
 
-                                .case-line {
+                                .case-line1 {
                                     // margin: 2% 5%;
                                     // width: 192px;
                                     // height: 57px;
@@ -405,22 +405,34 @@ body {
 
 
                                 .case-line {
-                                    margin: 2% 5%;
-                                    width: 192px;
-                                    height: 57px;
+                                    // margin: 2% 5%;
+                                    // width: 192px;
+                                    // height: 57px;
                     
                                     /* Heading 2 Bold */
                     
-                                    font-family: 'Nunito Sans';
-                                    font-style: normal;
-                                    font-weight: 700;
-                                    font-size: 42px;
-                                    line-height: 57px;
-                                    color: black;
+                                    // font-family: 'Nunito Sans';
+                                    // font-style: normal;
+                                    // font-weight: 700;
+                                    // font-size: 42px;
+                                    // line-height: 57px;
+                                    // color: black;
+
+
                                     // display: flex;
                                     // justify-content: center;
                                     // text-align: center;
                                     // justify-content: ;
+
+                                    //new case line that I added
+
+                                    font-family: 'Nunito Sans';
+                                    font-style: normal;
+                                    font-weight: 700;
+                                    font-size: 26px;
+                                    line-height: 35px;
+
+                                    color: #000000;
                     
                                     
                                 }
